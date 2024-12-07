@@ -1,0 +1,19 @@
+.nav-container{
+    background-color:#02141b;
+    padding:20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav-links-container{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.link-item{
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
