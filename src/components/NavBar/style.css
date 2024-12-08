@@ -3,7 +3,7 @@
     padding:20px;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 .nav-links-container{
     width: 50%;

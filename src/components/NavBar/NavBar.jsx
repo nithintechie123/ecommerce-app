@@ -14,6 +14,10 @@ function NavBar() {
       <div className='nav-links-container'>
         <Link to="/" className='link-item'>Home</Link>
         <Link to="/cart" className='link-item'>Cart</Link>
+        <Link className='link-item'>About us</Link>
+        <Link className='link-item'>Contact</Link>
+        <Link className='link-item'>profile</Link>
+        <Link className='link-item'>Login</Link>
       </div>
     </div>
   )
